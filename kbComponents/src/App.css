@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+  display: flex;
+  width: 10svw;
+  height: 3svh;
+  background-color: #2436a8c0;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border: none;
+  box-shadow: 1px 1px 1px #000;
+  border-radius: 5px;
+  margin-left: 20vw;
+  cursor: pointer;
+}
+
+
+p {
+  margin-left: 20vw;
+}
+code{
+  background-color: #ecef5a;
+}
+h3{
+  text-align: center;
+  font-size:xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn{
+  width: 20svw;
+  height: 5svh;
+  background-color: #3530c9ba;  
+  color:#fff;
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.9rem;
+}
+.pbtn{
+  background-color: #6b636300;
+  width: 20svw;
+  margin-top: -.02rem;
+  height: 3svh;
+  padding: 2px;
+}
